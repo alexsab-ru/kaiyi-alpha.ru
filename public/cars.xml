@@ -1,0 +1,2615 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vehicles><vehicle>
+  <id>5636114</id>
+  <vin>XUUJA2G25P0008545</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>Бензин</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Белый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="203">2 комплекта ключей</element>
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/37351706b634c5bf90b4658c2440f0ba.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/44263c696baadb6359da0b1253091f3f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/2080a1b670a6a2d8fd64780876881733.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/cf93c583f122b17ebf50b37059e6367e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/cd096496caf9b5ca04000aa218b7814a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/acfb5ec4303f6b2fab038b7aabaf1115.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/7630d9989b5fdbf3e6d5b5728ebdfdcd.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/035dfe10cfb270299461129ef0e2f683.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/727686219ceaf3ae97857ba32c3bb066.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/ce80e6b195d0623d5b6112024dccc588.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/6799e2e051e1ff4b580d31a884a6c6c4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636114/orig/99f61867ed2557d9fbf534fd01bff700.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636192</id>
+  <vin>XUUJA2G23P0008494</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/394605e8491daeb3270d305f8d7b8931.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/a35ea7ce0b3b416c95bbe3e4852e02cf.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/79f001deb8e52cd5c72f325004237949.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/2daaf512fc144dd99292e99d74872be1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/4cd206fcb6006726ea8f0aebade9c6ed.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/1c251b50125c7ea4ad56180d71938c61.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/379e4fc6319c67613a658157eb8d8044.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/8cbbb7ca335fd2f41b666a44a1c551de.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/965f95bf9f83d831aee3e0e9cfa14c18.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/efd1b3411e4df31b94712a158a9f4f84.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/99310aa2a6460c12ba2502a0157be977.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/52bc0f8122a0591b732752c1f3aed45f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/37e82b2a5d9e1a0386a8072abd3813e0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/bbaa1450e0f4272699a00c2577b5e538.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/e3e8194cf6b3b5e11a7aaff73dde0637.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/0deeeb48b60f5acb77e671e7e370c7ee.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636192/orig/b4ee7f480c390f8b01bc38f5805aa224.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636201</id>
+  <vin>XUUJA2G23P0008463</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/e120708ebd18d6d59f967eccee71b0ec.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/4f0a52c90956ca724c126e0a413e290b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/07f325bd5f96e95e50733173a3021a0c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/38dff55f347dd233afdb9bc0912caf2b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/269cbe45aac88fee4578b57b3f95472e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/56b7fca99a2501f5070fbc3005336e6e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/0539fbe7acc2d570cfd5f7669a07d4fa.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/b211ae703596f30c7983a7338cb33b03.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/9aca5ab66c1dd01df186a4c3c7510bb2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/198c1fdd6a8b47c17ed6185caf15338c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/0f9916f82697fc4425125d8b99674f60.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/5fa5d83692bf4627192f3db866eacac6.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/994af12dd5b56cad7b6d3b6f85f2bb60.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/e512dbf7f50e420616ae143330b4b647.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/3e9ace85b11a936bc29e3a69e82d67d6.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/af746ca2ea46e19d286f0a44460c173c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/3c9c1acebf33ace430be8462f0e0c88d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636201/orig/94934e529dbc7ad285f6032397934d8b.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636224</id>
+  <vin>XUUJA2G27P0008546</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/ff2608d1266fe90ba25f29c75d605e9a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/98117eaf41b547c962227e85eed615a8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/a04628f3ac6082352a64d5906a559e7d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/64fed97822cce6652463979ae5230793.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/69421f87499065af54a8dd2a2aec726e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/a09fe76cb22dcf9ad9dccb8f03b2b50e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/da551f7576918baef357db5a4de4ae42.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/ab29ff8eca663d015e82104003897b84.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/775d1498948dc10f19bdebfd185435e4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/2ddf4691ac0fc476ce6b935cf760daaf.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/795aff7f7d848336f1ebd1fed187fc2b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/fcb98ad2c21400b5f8a802d9e0601775.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/f91dcb19949437c911df86df3d5055c2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/857910c9efe490af655a7ac66fd2b140.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/07c42e00e03ce181b808fca7125e789b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/862b2b1c5bc61b10a8eec91a71bbae1d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636224/orig/ea15adfc4ced9360ba63aa4da4cf6095.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636239</id>
+  <vin>XUUJA2G20P0008467</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/b071f51b4dc6d3bc624c6f99c895248f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/7d2f0eba9877ad620ae0a94105dfdf37.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/3e4464b921dbae7b8b46c3b13db2a734.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/2f4a03a55df9369e237a0fe3ce7245a6.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/b1dbd304b1876cd11e76ad4458ad427d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/ee4cc48fa4c0467d96505c3c11c1ec6f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/5880f0cbd80a03b8a2f3fcec2ce79013.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/e64aeb6bd9650b2ac7f3367594b78451.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/b4f321b16d1a1a944c7f733e5a8d4ce7.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/9696446caa9ffe5795676a5d1966e57d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/c541b4f12c9006920499a6e605ba341d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/41afd19fd96918f6a39c76784469528a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/202acab1676ca1948d6acbeb6dfcd60a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/2cc239739ec6e14b644e5d1f6fcf2217.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636239/orig/858cdb3c3a0c7e9eaee93bb7ce13bb56.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636263</id>
+  <vin>XUUJA2G20P0008517</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/8278a876f1326d3a06d94ca9db1e5f14.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/d7f32770bc60e65ba05fdfc51c6aeca1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/d9e1fbad1f32af7c7eb85b87a2010c77.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/68cc025b60a212b521fadd17a601f893.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/6866069c2f3f128bee400ed3266f6467.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/d6aefcf0fe8b8c6e3949c5506e282776.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/c4ad8b9f54cd7fc098641867613c732b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/15ff62d17e9c20546d4b5880b37f13a4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/0873acefd00139c4c78758f8ca00b82f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/5c48d0522c0704c45a8ed475a55e7e34.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/f1c37bd1f3ecdc34feac54fba46daa88.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/5d9988b531008f5875886db31e36b39c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/730ca87598703c76823bafd10215716d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636263/orig/b86381adf1f02bdc9e8dcb69532d4eb6.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636807</id>
+  <vin>XUUJA2G24P0008519</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/b5ab8b6479814f140834d12df2f2bc7c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/0e3dda8852759aa4f1fe0006dd1abee4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/4f5da25a426ea08a3d7564296c5ac16e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/4b91370b03816e9aec8790aabe890100.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/6985347545408c14dd24f9ef1c08226d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/5dee7907bf9092b19502309105c5322c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/473ea7c940f72a6c2e910e0a539a8119.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/fb4b31cc26dce0df2b5c97efa5671477.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/beb03c1e750fe1957e9e137922dddd32.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/e202630371f34b15ea6866f9fddd6514.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/c45f9d0d5383a1be8a9e31d9cde80f58.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/a4d426ae87c2ab75414946b0cfc89aa3.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/fa23e6e930cf99b8d2a661425ce2919b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/ba69060226d881d6982ed7f23cc0337d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/100290c715f951efac50781240ff06c0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/dd9b4948c39d0ee830dad0ebd9c77a60.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636807/orig/f0a3a0326a0cfc22b8035ab89ec7eeb2.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636858</id>
+  <vin>XUUJA2G21P0008526</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount />
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/705bf95bce458f91a78591bd0eac830b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/61d6254833bd189feb1ccc711afe6509.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/9e17abc612601027f78bcbed9112fbe6.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/40e34c7c9c01e905c39eef566543509b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/597de46b85978dac491b4f934ae7ab1c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/0a79265fd3a4ff3c3f2b01e30db94f5b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/f07ce17f5f88e02851c1dc6d8d01b7ac.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/2af88d2768b5f3d40211d909fe9f7730.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/73ba93efbac9b234d3f513f645f34770.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/d2cf60ffbf19e03be4385a8137520eb3.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/8cf3f668f43f06a978f70852ae856c13.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/d6683c69a71f8ea961af2b26e69c43a8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/00b2caaf2e7e9b0967d9a81052a718b1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636858/orig/966e8b6ca5d5596bc64beb323fac35f4.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5636956</id>
+  <vin>XUUJA2G27P0008515</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode />
+  <engineType>petrol</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>white</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>front</driveType>
+  <gearboxType>variator</gearboxType>
+  <gearboxGearCount />
+  <wheel>left</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="130">Светлый салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="136">Электрический люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/7fd8892039350125bd5ec8cd9ac3b422.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/b49c1c22634790d4476619687acc32a6.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/8fb6a091ff351864689383b43b5a75f0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/f8040b15124b7d62a07c66d1a7f32da7.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/face62f3250b4210d3171f2959f468e8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/9bf7f06bffb06825a12bb7b6ca0c1774.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/441463a176d6596962e5306d98af55ae.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/41591c4d2a218430075310d627756ec9.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/546727f6e5d4196399c1916889acc91d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/732a9ee0e9eada7dd5f2ef4d9d684ddc.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/f3edf21b708fe443d639cdf3a8fb285d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/52a4941cd12d107a66363d98b51bf5f9.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/20c2fdd9eaae944f8e30aa6723ee5753.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/0cd05b8103c89ca026a8072df0837f39.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/98901471d0ad173e21682b8dfe9e34ae.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/a6b2619f6fe4b9ae0669df7aa287f1e5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/6aa5d7b7f8192c67d9432555e7220354.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5636956/orig/95d51f64d948cec7f7aeb72f61b92e1f.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId>4067867577</avitoId>
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl>https://www.avito.ru/items/4067867577</avitoUrl>
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-white-2023/</url></vehicle>
+<vehicle>
+  <id>5637049</id>
+  <vin>XUUJB1G25P0001263</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2024</year>
+  <mark_id>Kaiyi</mark_id><folder_id>X3</folder_id><generation />
+  <bodyConfiguration id="12677">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 MT (113 л.с.)</modification_id><complectation_name>Comfort</complectation_name><brandComplectationCode />
+  <engineType>Бензин</engineType>
+  <engineVolume>1499</engineVolume>
+  <enginePower>113</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Серый</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Механика</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2238000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>2158000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский кроссовер Kaiyi Х3, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="225">Система помощи при спуске с горы</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="45">Электро усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
+      <element id="60">Регулировка сиденья пассажира</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="73">Кондиционер</element>
+      <element id="87">Подогрев сидений водителя, пассажира и задних пассажиров</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="106">Функция Apple CarPlay</element>
+      <element id="107">Функция Android Auto</element>
+      <element id="109">Bluetooth</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="124">Тканевая обивка салона</element>
+      <element id="129">Темный салон</element>
+      <element id="133">Кожаный руль</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="151">Литые легкосплавные диски</element>
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="179">Галогенные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="191">Сервисная книжка</element>
+      <element id="193">Руководство</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/d427747c0208622f96ee1b3ad6d52525.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/3c655afdab4438b8f924c2e10df51642.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/74e66d478153712366a2782d565e418a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/97bba222db038c91e1b59f714b2aa6b8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/6f96dc8b985eb33c48172377496b141a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/f170d2fac048a2d0d680f118a47024b0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/2b3bf01c5d2ea4be8a659654f61ac10b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/f70cb43de532f42d4d85e4f4ca5cb61d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/1e1eb75230f29b7b6d365bb5b1a6edd0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/f905e004c8c92e8463e103a9680a13c8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/8bf1d4728c87d7c4b69daa5bdb0e43b1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/a745d2e34c57d9eef9b0d077aa6ffe04.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/853fbf94c5711a660ea0b3719cb4d5f5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/c91b55c2a5203fa151ec1e265772c7f1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/d2a8461b771ee038e5a5aacd3c7b5533.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/7aabeb9116692b5fb23ca2725e9b73f8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/59b82971c01cb89fa36a88d4e342a449.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/466532014644322c1aaeb62ac6d5f604.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5637049/orig/0f10bc451e27b8fa01de50a95650f76e.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode />
+  <brandInteriorCode />
+  <certificationProgram />
+  <avitoId>4004254029</avitoId>
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl>https://www.avito.ru/items/4004254029</avitoUrl>
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-03-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>2158000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-mt-113-лс-comfort-grey-2024/</url></vehicle>
+<vehicle>
+  <id>5691853</id>
+  <vin>XUUJA2G29P0008676</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Luxury+</complectation_name><brandComplectationCode>G7150SD00BJ0018</brandComplectationCode>
+  <engineType>Бензин</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Черный</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2290000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1680000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia.
+Автомобиль представлен официальным дилером KAIYI в г. Самара
+В нашем автосалоне для вас:
+Большой выбор автомобилей KAIYI в наличии
+Выгодный обмен по программе Trade-in
+Большой выбор автомобилей с пробегом
+Выкуп автомобилей
+Официальный сервисный центр
+Кузовной сервис
+Кредит на выгодных условиях
+Страхование КАСКО, ОСАГО
+Лизинг (для юридических лиц)
+Дополнительное оборудование
+Стоимость указана с учетом скидок и предложений
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="34">Камера 360°</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="88">Подогрев руля</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="133">Кожаный руль</element>
+      <element id="134">Люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="159">Размер дисков 17″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="191">Сервисная книжка</element>
+      <element id="193">Руководство</element>
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/f36cc3c88d0f02c2c03b3fbe7245dba2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/1d6442e97a75267aeaa628979213bff4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/1094e32aa38fc810b5b254f05a82f7cd.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/31a0fec89589e2e405353716427e0006.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/158ed9daa1155a25182f99f222a64a9e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/4e913895a0edbcaab318363194715a7f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/13f613a3d25412f9c82e68bac9c555cc.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/4e1c428bda360091bf0f659a975471ab.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5691853/orig/f7f8a0d2be20ae9bbdde9b19d1d1bb38.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode>CA</brandColorCode>
+  <brandInteriorCode>BRW</brandInteriorCode>
+  <certificationProgram />
+  <avitoId>4004210431</avitoId>
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl>https://www.avito.ru/items/4004210431</avitoUrl>
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2023-12-27</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1680000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-luxury-plus-black-2023/</url></vehicle>
+<vehicle>
+  <id>5692378</id>
+  <vin>XUUJB2G26P0001763</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>X3</folder_id><generation />
+  <bodyConfiguration id="12677">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>1.5 CVT (113 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode>F7150SD00AD0008</brandComplectationCode>
+  <engineType>Бензин</engineType>
+  <engineVolume>1499</engineVolume>
+  <enginePower>113</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Серый</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2414900</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1964900</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский кроссовер Kaiyi Х3, который недавно начали собирать на калининградском «Автоторе». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+ОСНОВНЫЕ ХАРАКТЕРИСТИКИ
+Дорожный просвет, мм - 190
+Тип двигателя  - Бензиновый
+Рабочий объём, л - 1.5
+Максимальная мощность, л.с. / об/мин  - 113 / 6150
+Тип привода  - Передний
+Типоразмер шин -- 215/60R17
+Время разгона 0 - 100 км/ч, с - 13,8
+Средний расход топлива (смешанный цикл), л/100 км  - 7,2
+
+ГАБАРИТНЫЕ РАЗМЕРЫ
+Длина, мм  4400
+Ширина, мм  1831
+Высота, мм  1653
+Колесная база, мм  2632
+Передний свес, мм  908
+Задний свес, мм  860
+Колея передняя / задняя, мм  1551 / 1563
+Углы въезда / съезда, град  23 / 30
+Дорожный просвет, мм 190
+
+МАССА
+Снаряженная масса, кг  1377 - 1453
+Полная масса, кг 1753
+
+ВНУТРЕННИЕ ОБЪЁМЫ
+Объём багажника, л  360
+Объём топливного бака, л 51
+
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="225">Система помощи при спуске с горы</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="57">Регулировка сиденья водителя в двух плоскостях</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="73">Кондиционер</element>
+      <element id="87">Подогрев сидений водителя, пассажира и задних пассажиров</element>
+      <element id="88">Подогрев руля</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="106">Функция Apple CarPlay</element>
+      <element id="107">Функция Android Auto</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="133">Кожаный руль</element>
+      <element id="143">Передний центральный подлокотник</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="160">Размер дисков 18″</element>
+      <element id="174">Рейлинги на крыше</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="191">Сервисная книжка</element>
+      <element id="193">Руководство</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/bc667d4c11a0fd3147af13f3652a95ad.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/8018e57a714cee3a0d32132b244d0859.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/324d38ac2b6061f21292c52f57794713.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/27b41169b09cf0c4cd419694760b0263.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/53c2ba11e46061656390eff6c761da89.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/a29d67573e970fbb51fafd89b10f0e4f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/ab636293e0fe7bdf6e4f6a82614c95ec.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/24161ba388991c4d0870595a57fe1ae5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/d850d608a79a3a64140a875238894de0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/b1bec6643397f7159bd20b9794911458.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/cd8b38598e0727cbaf0fc130764ccf8c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/c839777121bb9f782bdb897c327becba.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/41097564454bea21568b1abe2ba9676e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5692378/orig/ba038db9c69279badf1bffe274053f19.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode>GA</brandColorCode>
+  <brandInteriorCode>BLK</brandInteriorCode>
+  <certificationProgram />
+  <avitoId>4003956314</avitoId>
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl>https://www.avito.ru/items/4003956314</avitoUrl>
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2023-12-21</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1964900</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-cvt-113-лс-luxury-grey-2023/</url></vehicle>
+<vehicle>
+  <id>5706450</id>
+  <vin>XUUDB3G39P0000313</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2024</year>
+  <mark_id>Kaiyi</mark_id><folder_id>X7 Kunlun</folder_id><generation />
+  <bodyConfiguration id="13460">Внедорожник 5 дв.</bodyConfiguration>
+  <modification_id>2.0 AMT (238 л.с.)</modification_id><complectation_name>Luxury</complectation_name><brandComplectationCode>F6471SD00FJ0002</brandComplectationCode>
+  <engineType>Бензин</engineType>
+  <engineVolume>1998</engineVolume>
+  <enginePower>238</enginePower>
+  <bodyNumber />
+  <body_type>SUV</body_type><bodyDoorCount>5</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Белый</color><bodyColorMetallic>1</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Робот</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>3475000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>3295000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знaкомьтecь: пepeд вами потенциальный беcтсeллер роccийскогo pынкa — китaйcкий кроссовер Кaiyi X7 KUNLUN, премиальная новинка,  которую нeдавно нaчaли cобирaть нa кaлинингpaдскoм «Автоторе». Нa том жe конвeйepе, c кoтoрого рaньшe сходили автомобили Нyundai и Кiа.
+Aвтoмoбиль представлен официaльным дилeром КАIYI в г. Самара
+В нашем автосалоне для вас:
+Большой выбор автомобилей КАIYI в наличии
+Выгодный обмен по программе Тrаdе-in
+Большой выбор автомобилей с пробегом
+Выкуп автомобилей
+Официальный сервисный центр
+Кузовной сервис
+Кредит на выгодных условиях
+Страхование КАСКО, ОСАГО
+Лизинг (для юридических лиц)
+Дополнительное оборудование
+Стоимость указана с учетом скидок и предложений
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+Самара, Новоурицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="2">Антипробуксовочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="4">Система контроля слепых зон</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="6">Система предотвращения столкновения</element>
+      <element id="8">Датчик давления в шинах</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="18">Блокировка замков задних дверей</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="28">Адаптивный круиз-контроль</element>
+      <element id="31">Парктроник передний и задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="34">Камера 360°</element>
+      <element id="35">Система автоматической парковки</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="225">Система помощи при спуске с горы</element>
+      <element id="39">Система управления дальним светом</element>
+      <element id="41">Датчик света</element>
+      <element id="42">Датчик дождя</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="67">Электростеклоподъемники передние и задние</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+      <element id="237">Декоративное освещение салона</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="76">Климат-контроль 2-зонный</element>
+      <element id="82">Вентиляция сидений водителя и пассажира</element>
+      <element id="87">Подогрев сидений водителя, пассажира и задних пассажиров</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="106">Функция Apple CarPlay</element>
+      <element id="107">Функция Android Auto</element>
+      <element id="109">Bluetooth</element>
+      <element id="264">Электронная приборная панель</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="122">Беспроводная зарядка для телефона</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="133">Кожаный руль</element>
+      <element id="137">Панорамная крыша</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="162">Размер дисков 20″</element>
+      <element id="174">Рейлинги на крыше</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="182">Светодиодные фары</element>
+      <element id="185">Огни дневного хода</element>
+    </group>
+    <group id="12" name="Комплектность">
+      <element id="215">Докатка</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f0ea31cec5c402aaa697540a33cca98e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/a601bea5e7f62340058ecce2518e096b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/1c558aafedef26836760544fccdd9df3.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/e7f3f5c134d860195d4786f6fd327580.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/fc71f426e373479ea4648ab6002dacfa.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/b08589adeb91bd4dcbc5e33a14d227bb.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f0a3701767e204749e951968439a2a6b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/95b2ef7ff140103a045aea5099ed8ccf.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/87f8c7c5f9835a8badb371421b227874.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/c0a675d2452f2d82fd21175f417f71b1.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/001ba80cf189d0ec726eec2adbda436f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/db66ec03a6b97f554a53bd27dbaf519f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/6b643d0f9889fbfcd854e35d3055106c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/62598c079d1afce726072721b6a8f6ce.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/fdd20338bbf5791560584dadd3ee956f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/a33464ebc453f959f893619e315e67d7.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/96e5e6a5843a5339e1604a0dbe084600.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f83215a722e93cfe7ae6b2b6125ebde0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/803aebf0db8b8191ad70071d0e0c38af.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/a0da2944aac5caefc7163659f99b7fa9.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/af6bd0c8e3ae1bdb88d0a1fd0ae6575f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/800827734b604d988478e5e3f2313395.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/5f6f98f1316fe02c3929e2299ab8de1e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/859d1ad64ecd81064541a0a8bd9fc00c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/72d6a9054f5969a99ba0ccd391ee4b89.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/671f52e38fd13c999b43b3737d7fe0f5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/275b8b716a2ecedb60b0a27e29658cca.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/be934afeb58363012079dd7c3801f9ab.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/06c61e335e69a3b483ae7d338d80c96f.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/91227c01fb592072542ca4fd2d11c0a8.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f7221a223bd5d961182209cce9ff5eaa.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/79e6a6a930cf4f6b56b3f48ac31456f2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/898ad5f59f15b2088efbc629f483105b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/6c2afff233739d8920ecaa6c713df9db.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/252841b977b686fff496accbcb6fe226.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/3e462f65150fb04bf4f51f35389532a2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/6e158f3edfb3129747e8fff115cf492a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f1f14e21bbd8ee68850597e55e7db9ee.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/c1634dd945fcbaa95ac11a51514bf66b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/0213d39b3b7f2ad7ab6feb44542fedf4.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/22eadaa53d4ea9f5429a8cd9452bbbff.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/03cf3b7024aa47d2bba80bd041524c97.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/b5879e96d843f958444854c36c095c68.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/f9f38806e9f8c492eafe4631fc838709.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/5b89447650b3d229d0e3e1b53c01ac17.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/6c839e4197145821c556574506669406.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/643149a1ce7476ba2e6ddd9557c6e757.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/d8b754e427f8257765d6184e5deb1c70.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/5e7c407718b062657a2604fe734ec2f9.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/5706450/orig/fed1d0a68856bf8548afb889e8953968.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode>BA</brandColorCode>
+  <brandInteriorCode>BLU</brandInteriorCode>
+  <certificationProgram />
+  <avitoId>4004058351</avitoId>
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl>https://www.avito.ru/items/4004058351</avitoUrl>
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-07-06</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>3295000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20-amt-238-лс-luxury-white-2024/</url></vehicle>
+</vehicles>
