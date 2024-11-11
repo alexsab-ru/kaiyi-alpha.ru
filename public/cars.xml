@@ -1043,4 +1043,204 @@ Aвтoмoбиль представлен официaльным дилeром К�
     <reserved />
   </status>
 <max_discount>0</max_discount><sale_price>3295000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20-amt-238-лс-luxury-white-2024/</url></vehicle>
+<vehicle>
+  <id>6498193</id>
+  <vin>XUUJA2G25P0011526</vin>
+  <uin />
+  <dealer id="6369">Автоцентр Альфа KAIYI</dealer>
+  <category id="1">Легковые</category>
+  <subcategory />
+  <type>new</type>
+  <year>2023</year>
+  <mark_id>Kaiyi</mark_id><folder_id>E5</folder_id><generation />
+  <bodyConfiguration id="12073">Седан</bodyConfiguration>
+  <modification_id>1.5 CVT (147 л.с.)</modification_id><complectation_name>Standard</complectation_name><brandComplectationCode>G7150SD00BJ0025</brandComplectationCode>
+  <engineType>Бензин</engineType>
+  <engineVolume>1498</engineVolume>
+  <enginePower>147</enginePower>
+  <bodyNumber />
+  <body_type>sedan</body_type><bodyDoorCount>4</bodyDoorCount>
+  <seatCount>5</seatCount>
+  <color>Черный</color><bodyColorMetallic>0</bodyColorMetallic>
+  <driveType>Передний</driveType>
+  <gearboxType>Вариатор</gearboxType>
+  <gearboxGearCount />
+  <wheel>Левый</wheel><run>0</run><mileageUnit>km</mileageUnit>
+  <price>2195000</price>
+  <previousPrice />
+  <specialOffer>0</specialOffer>
+  <specialOfferPreviousPrice />
+  <priceWithDiscount>1595000</priceWithDiscount>
+  <tradeinDiscount />
+  <creditDiscount />
+  <insuranceDiscount />
+  <bargain>0</bargain>
+  <availability>available</availability>
+  <ptsType />
+  <country />
+  <operatingTime />
+  <ecoClass />
+  <driveWheel />
+  <axisCount />
+  <brakeType />
+  <cabinType />
+  <maximumPermittedMass />
+  <saddleHeight />
+  <cabinSuspension />
+  <chassisSuspension />
+  <length />
+  <width />
+  <bodyVolume />
+  <bucketVolume />
+  <tractionClass />
+  <refrigeratorClass />
+  <craneArrowRadius />
+  <craneArrowLength />
+  <craneArrowPayload />
+  <loadHeight />
+  <photoCount>1</photoCount>
+  <description>Знакомьтесь: перед вами потенциальный бестселлер российского рынка — китайский седан Kaiyi E5, прямиком с калининградском «Автотора». На том же конвейере, с которого раньше сходили автомобили Hyundai и Kia. 
+Автомобиль представлен официальным дилером KAIYI в г. Самара 
+В нашем автосалоне для вас: 
+Большой выбор автомобилей KAIYI в наличии 
+Выгодный обмен по программе Trade-in 
+Большой выбор автомобилей с пробегом 
+Выкуп автомобилей 
+Официальный сервисный центр 
+Кузовной сервис 
+Кредит на выгодных условиях 
+Страхование КАСКО, ОСАГО 
+Лизинг (для юридических лиц) 
+Дополнительное оборудование 
+Стоимость указана с учетом скидок и предложений 
+Мы рады видеть Вас ежедневно с 08:00 до 20:00 по адресу:
+ Самара, Ново-Урицкая 22А.</description>
+  <address>Самара, Новоурицкая 22</address>
+  <ownersCount>0</ownersCount>
+  <vehicleCondition>excellent</vehicleCondition>
+  <equipment>
+    <group id="1" name="Активная безопасность">
+      <element id="1">Антиблокировочная система</element>
+      <element id="3">Система курсовой устойчивости</element>
+      <element id="5">Система помощи при экстренном торможении</element>
+      <element id="8">Датчик давления в шинах</element>
+      <element id="223">ЭРА-ГЛОНАСС</element>
+    </group>
+    <group id="2" name="Пассивная безопасность">
+      <element id="10">Подушки безопасности водителя</element>
+      <element id="12">Подушки безопасности пассажира</element>
+      <element id="14">Боковые передние подушки безопасности</element>
+      <element id="19">Система крепления детских автокресел</element>
+    </group>
+    <group id="3" name="Противоугонная система">
+      <element id="20">Сигнализация</element>
+      <element id="24">Иммобилайзер</element>
+      <element id="25">Центральный замок</element>
+    </group>
+    <group id="4" name="Помощь при вождении">
+      <element id="26">Бортовой компьютер</element>
+      <element id="27">Круиз-контроль</element>
+      <element id="30">Парктроник задний</element>
+      <element id="33">Камера заднего вида</element>
+      <element id="36">Система помощи при старте в гору</element>
+      <element id="41">Датчик света</element>
+    </group>
+    <group id="5" name="Комфорт">
+      <element id="43">Усилитель руля</element>
+      <element id="49">Запуск двигателя с кнопки</element>
+      <element id="51">Система доступа без ключа</element>
+      <element id="52">Регулировка руля</element>
+      <element id="58">Электрорегулировка сиденья водителя</element>
+      <element id="68">Электропривод зеркал</element>
+      <element id="69">Электропривод крышки багажника</element>
+    </group>
+    <group id="6" name="Управление климатом и обогрев">
+      <element id="75">Климат-контроль 1-зонный</element>
+      <element id="86">Подогрев сидений водителя и пассажира</element>
+      <element id="89">Обогрев зеркал</element>
+      <element id="94">Обогрев форсунок стеклоомывателей</element>
+    </group>
+    <group id="7" name="Мультимедиа и навигация">
+      <element id="101">USB</element>
+      <element id="105">TV</element>
+      <element id="109">Bluetooth</element>
+      <element id="121">Мультифункциональное рулевое колесо</element>
+      <element id="123">Розетка 12V</element>
+    </group>
+    <group id="8" name="Салон и интерьер">
+      <element id="126">Кожаная обивка салона</element>
+      <element id="133">Кожаный руль</element>
+      <element id="134">Люк</element>
+      <element id="139">Складывающееся заднее сидение</element>
+    </group>
+    <group id="9" name="Экстерьер">
+      <element id="158">Размер дисков 16″</element>
+    </group>
+    <group id="10" name="Освещение">
+      <element id="185">Огни дневного хода</element>
+    </group>
+  </equipment>
+  <photos>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/f17ecac6deda2050a74caad409184ebe.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/581df3bc93d3d894b4be2448c765043c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/bb8df91ab55bec20775246886ee7a801.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/05a6c84aed1971fcb52517e8731f844b.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/c2084308eb555ee3914083472203599d.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/68a3912553c150a0cfe5fc3e2221ce90.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/b552234735596cedfc84c673f3f6cc03.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/3176d2f77abfc3a745b637192fe9ce2a.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/71b0c1c5de5d86e64fb741bcfb43c9ac.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/21539299d524e56cd9869e195b65a1b7.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/b5a09fff6052a6f66767528a43c16b10.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/0b87c6b17c2191054bf5516ad58ad699.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/a6706120abf0187603c0601dc6da10f0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/fcd2fefc84c434305db6a44a5a25abb5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/15890187fd8acfe916345d1337d5ccff.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/0ace83a4f85fe14084e57b4dcd13bb0e.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/59197aa3435e93a0e17f61c42d42735c.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/50412f9000c98d9dccca67095dc21ce0.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/0886affa38368959eb2b6de4f57be496.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/63e279b723697b6f9c307852395368dc.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/32591232cbf7212806819630f415b8ab.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/a557ac5ac326d1ec18602468e6d45799.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/4b2fec3a975e437f43e44341eba04fa2.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/78f735156bae8b62236d7ce72c8c3ada.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/20aef3c5348b148e8819751078e54483.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/23c5971a3f027b41918ff9830f4f2f05.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/36e19503ad8179ac172fc02e23c3b201.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/9e887b0015f2e035066990123fef50bd.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/1324b36baaf9e046e47c9c1dddda1856.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/75de9141e10d5c4c81faa8f54c1609ff.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/f13c64141c95f7e47b3865137a2ce2a5.jpg?sid=86</photo>
+    <photo>https://s1.maxposter.ru/photo/6369/6498193/orig/ce52d6fa4104e52bbc645e3f565baee8.jpg?sid=86</photo>
+  </photos>
+  <phones>
+    <phone number="78469777775" callFrom="8" callTo="20">+7(846)977-77-75</phone>
+  </phones>
+  <brandColorCode>CA</brandColorCode>
+  <brandInteriorCode>GRE</brandInteriorCode>
+  <certificationProgram />
+  <avitoId />
+  <autoruId />
+  <dromId />
+  <siteUrl>https://alpha-kaiyi.ru/</siteUrl>
+  <avitoUrl />
+  <autoruUrl />
+  <dromUrl />
+  <siteUrls>
+    <url sourceId="0" source="Ссылка по шаблону">https://alpha-kaiyi.ru/</url>
+  </siteUrls>
+  <acquisitionSource />
+  <acquisitionDate>2024-10-31</acquisitionDate>
+  <manufactureDate />
+  <status>
+    <inPresalePreparation />
+    <inRepair />
+    <inLogistics />
+    <inLegal />
+    <inProblems />
+    <inContent />
+    <reserved />
+  </status>
+<max_discount>0</max_discount><sale_price>1595000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-black-2023/</url></vehicle>
 </vehicles>
