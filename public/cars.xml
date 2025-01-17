@@ -26,7 +26,6 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>2158000</priceWithDiscount>
   <tradeinDiscount />
   <creditDiscount />
   <insuranceDiscount />
@@ -193,7 +192,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>0</max_discount><sale_price>2158000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-mt-113-лс-comfort-grey-2024/</url></vehicle>
+<max_discount>0</max_discount><priceWithDiscount>2158000</priceWithDiscount><sale_price>2158000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-mt-113-лс-comfort-серый-2024/</url></vehicle>
 <vehicle>
   <id>5692378</id>
   <vin>XUUJB2G26P0001763</vin>
@@ -221,7 +220,6 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>1964900</priceWithDiscount>
   <tradeinDiscount />
   <creditDiscount />
   <insuranceDiscount />
@@ -413,7 +411,7 @@
     <inContent />
     <reserved />
   </status>
-<max_discount>0</max_discount><sale_price>1964900</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-cvt-113-лс-luxury-grey-2023/</url></vehicle>
+<max_discount>0</max_discount><priceWithDiscount>1964900</priceWithDiscount><sale_price>1964900</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-cvt-113-лс-luxury-серый-2023/</url></vehicle>
 <vehicle>
   <id>5706450</id>
   <vin>XUUDB3G39P0000313</vin>
@@ -441,7 +439,6 @@
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>3295000</priceWithDiscount>
   <tradeinDiscount />
   <creditDiscount />
   <insuranceDiscount />
@@ -649,7 +646,7 @@ Aвтoмoбиль представлен официaльным дилeром К�
     <inContent />
     <reserved />
   </status>
-<max_discount>0</max_discount><sale_price>3295000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20-amt-238-лс-luxury-white-2024/</url></vehicle>
+<max_discount>0</max_discount><priceWithDiscount>3295000</priceWithDiscount><sale_price>3295000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20-amt-238-лс-luxury-белый-2024/</url></vehicle>
 <vehicle>
   <id>6498193</id>
   <vin>XUUJA2G25P0011526</vin>
@@ -677,7 +674,6 @@ Aвтoмoбиль представлен официaльным дилeром К�
   <previousPrice />
   <specialOffer>0</specialOffer>
   <specialOfferPreviousPrice />
-  <priceWithDiscount>1595000</priceWithDiscount>
   <tradeinDiscount />
   <creditDiscount />
   <insuranceDiscount />
@@ -849,5 +845,5 @@ Aвтoмoбиль представлен официaльным дилeром К�
     <inContent />
     <reserved />
   </status>
-<max_discount>0</max_discount><sale_price>1595000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-black-2023/</url></vehicle>
+<max_discount>745000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-черный-2023/</url></vehicle>
 </vehicles>
