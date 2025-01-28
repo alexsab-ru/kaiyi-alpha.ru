@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-  <cars>
-    <car>
+  <cars><car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
@@ -72,11 +71,7 @@
         <image>https://s1.maxposter.ru/photo/6369/6498193/orig/f13c64141c95f7e47b3865137a2ce2a5.jpg?sid=86</image>
         <image>https://s1.maxposter.ru/photo/6369/6498193/orig/ce52d6fa4104e52bbc645e3f565baee8.jpg?sid=86</image>
       </images>
-      <max_discount>745000</max_discount>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
-      <url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-черный-2023/</url>
-    </car>
+      <max_discount>745000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-черный-2023/</url></car>
     <car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X3 Pro</folder_id>
@@ -120,11 +115,7 @@
         <image>https://10.img.avito.st/image/1/1.hgTbvra4Ku3tCajg29SOcdwfKOtlH6j77RIo72sXIudt.-IiWwa9J00EzsW37uEnccuq4XOTgzoXpUU9amIEOlNk</image>
         <image>https://10.img.avito.st/image/1/1.58bCQLa4Sy_098kigFPTidrhSSl84ck59OxJLXLpQyV0.S_xBq-18RLfStKLaMi8Fm9kZAx5kN5iYFNbQqaJn86A</image>
       </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2260000</priceWithDiscount>
-      <sale_price>2260000</sale_price>
-      <url>https://www.avito.ru/samara/avtomobili/kaiyi_x3_pro_1.5_cvt_2023_340_km_4881763492</url>
-    </car>
+      <max_discount>0</max_discount><priceWithDiscount>2260000</priceWithDiscount><sale_price>2260000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-pro-15-i-cvt-147-лс-luxury-белый-2023/</url></car>
     <car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X3</folder_id>
@@ -169,11 +160,7 @@
         <image>https://40.img.avito.st/image/1/1.sYjbaLa4HWHt359stVLgwMPJH2dlyZ937cQfY2vBFWtt.qYohINntezG7IN0Hg__u4uHm1l95aJs2EC2qJjRx7zA</image>
         <image>https://70.img.avito.st/image/1/1.j9mGeba4IzCwzqE9lE-grIHYITY42KEmsNUhMjbQKzow.oFebbYbMqF5x1QqGZYSUiDG6G48mVjhR8sJhlI3i4Zs</image>
       </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2070000</priceWithDiscount>
-      <sale_price>2070000</sale_price>
-      <url />
-    </car>
+      <max_discount>0</max_discount><priceWithDiscount>2070000</priceWithDiscount><sale_price>2070000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-15-i-cvt-113-лс-standard-белый-2023/</url></car>
     <car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X7 Kunlun</folder_id>
@@ -218,10 +205,6 @@ Cocтояние практичeски нoвогo aвтoмoбиля!!!
         <image>https://60.img.avito.st/image/1/1.ynx7e7a4ZpVNzOSYY1jLT2DaZJPF2uSDTddkl8vSbp_N.m75DqE3ZyOibvhP7MkDNpmCGXyUntiVpdHsU6DtO__M</image>
         <image>https://20.img.avito.st/image/1/1.9ro_3La4WlMJa9heX8_riSR9WFWBfdhFCXBYUY91UlmJ.zk_BiRlC41Q2b9Raw_z8dgWqHDq8Gx1sobwmRqjjWoc</image>
       </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2930000</priceWithDiscount>
-      <sale_price>2930000</sale_price>
-      <url />
-    </car>
+      <max_discount>0</max_discount><priceWithDiscount>2930000</priceWithDiscount><sale_price>2930000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20t-dct-238-лс-luxury-серый-2024/</url></car>
   </cars>
 </data>
