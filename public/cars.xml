@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-  <cars>
-    <car>
+  <cars><car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
@@ -72,11 +71,7 @@
         <image>https://s1.maxposter.ru/photo/6369/6498193/orig/f13c64141c95f7e47b3865137a2ce2a5.jpg?sid=86</image>
         <image>https://s1.maxposter.ru/photo/6369/6498193/orig/ce52d6fa4104e52bbc645e3f565baee8.jpg?sid=86</image>
       </images>
-      <max_discount>745000</max_discount>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
-      <url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-черный-2023/</url>
-    </car>
+      <max_discount>745000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-черный-2023/</url></car>
     <car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X3 Pro</folder_id>
@@ -113,51 +108,7 @@
         <image>https://80.img.avito.st/image/1/1.Qzlh8La479BXR23da91wdnlR7dbfUW3GV1zt0tFZ59rX.eU8e5dh3OleGRQPc1cS_5_7eqWXbb8mgsJd-UCjT1iY</image>
         <image>https://80.img.avito.st/image/1/1.TT9yFra44dZEoWPbZCN-cGq349DMt2PARLrj1MK_6dzE.ULx99fo7xFAPVi_33EsHzYfGwPIuHbGpTeyjnzj5izE</image>
       </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2260000</priceWithDiscount>
-      <sale_price>2260000</sale_price>
-      <url>https://www.avito.ru/samara/avtomobili/kaiyi_x3_pro_1.5_cvt_2023_340_km_4881763492</url>
-    </car>
-    <car>
-      <mark_id>Kaiyi</mark_id>
-      <folder_id>X3</folder_id>
-      <modification_id>1.5 i CVT (113 л.с.)</modification_id>
-      <body_type>Внедорожник 5-дверный</body_type>
-      <complectation_name>Standard</complectation_name>
-      <wheel>левый</wheel>
-      <color>Белый</color>
-      <metallic>нет</metallic>
-      <availability>в наличии</availability>
-      <custom>растаможен</custom>
-      <owners_number>1</owners_number>
-      <year>2023</year>
-      <price>2070000</price>
-      <credit_discount>0</credit_discount>
-      <insurance_discount>0</insurance_discount>
-      <tradein_discount>0</tradein_discount>
-      <optional_discount>0</optional_discount>
-      <currency>RUR</currency>
-      <registry_year>2023</registry_year>
-      <vin>XUUJ*************</vin>
-      <description>Kaiyi X3, 1.5 CVT (113 л.с.), 2023 года выпуска, пробег 394 км. Белый цвет, передний привод, левый руль, состояние отличное, 1 владелец по ПТС.
-Комплeктaция LUXURY!
-Состояние практичeски нoвогo автoмoбиля!!!
-Зaвoдской oкpac кузoва!!!
-Продaжa oт официальногo дилepa!!!
-Почему cтoит покупать в АЛЬФА:
-- Aвтoмoбиль в наличии
-- Пеpсональный мeнеджep во время всeх этапoв cделки
-- Paсположeние рядом с цeнтpoм гopодa, удoбнaя паpкoвкa
-- Оформление автомобиля в день обращения
-Не выбирай между качеством и выгодой. У нас вы сможете получить всё и сразу.</description>
-      <images>
-        <image>https://10.img.avito.st/image/1/1.9rAgZba4WlkW0thUQF6j-DjEWF-exNhPFslYW5DMUlOW.tVJsU4iljEAk6KpzWuUQZ17qnvAh5CvF8k8-qVpKXP8</image>
-      </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2070000</priceWithDiscount>
-      <sale_price>2070000</sale_price>
-      <url />
-    </car>
+      <max_discount>0</max_discount><priceWithDiscount>2260000</priceWithDiscount><sale_price>2260000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x3-pro-15-i-cvt-147-лс-luxury-белый-2023/</url></car>
     <car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X7 Kunlun</folder_id>
@@ -193,10 +144,6 @@ Cocтояние практичeски нoвогo aвтoмoбиля!!!
       <images>
         <image>https://90.img.avito.st/image/1/1.6mMhP7a4RooXiMSHeUjDUDqeRIyfnsScF5NEiJGWToCX.WIFbuYzdurBbXmQ3kkJhbGzLaK1pbQgOMm30L_8u4aE</image>
       </images>
-      <max_discount>0</max_discount>
-      <priceWithDiscount>2930000</priceWithDiscount>
-      <sale_price>2930000</sale_price>
-      <url />
-    </car>
+      <max_discount>0</max_discount><priceWithDiscount>2930000</priceWithDiscount><sale_price>2930000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-x7-kunlun-20t-dct-238-лс-luxury-серый-2024/</url></car>
   </cars>
 </data>
