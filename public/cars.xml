@@ -76,11 +76,11 @@
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
+      <body_type>Седан</body_type>
       <complectation_name>Standard</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
-      <metallic/>
+      <metallic>нет</metallic>
       <availability>в наличии</availability>
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
@@ -89,7 +89,9 @@
       <custom>растаможен</custom>
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
-      <price>1450000</price>
+      <price>2115000</price>
+      <priceWithDiscount>1450000</priceWithDiscount>
+      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
@@ -104,11 +106,11 @@
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
+      <body_type>Седан</body_type>
       <complectation_name>Standard</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
-      <metallic/>
+      <metallic>нет</metallic>
       <availability>в наличии</availability>
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
@@ -117,7 +119,9 @@
       <custom>растаможен</custom>
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
-      <price>1450000</price>
+      <price>2115000</price>
+      <priceWithDiscount>1450000</priceWithDiscount>
+      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
@@ -132,11 +136,11 @@
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
+      <body_type>Седан</body_type>
       <complectation_name>Standard</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
-      <metallic/>
+      <metallic>нет</metallic>
       <availability>в наличии</availability>
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
@@ -145,7 +149,9 @@
       <custom>растаможен</custom>
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
-      <price>1450000</price>
+      <price>2115000</price>
+      <priceWithDiscount>1450000</priceWithDiscount>
+      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
@@ -160,11 +166,11 @@
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
+      <body_type>Седан</body_type>
       <complectation_name>Standard</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
-      <metallic/>
+      <metallic>нет</metallic>
       <availability>в наличии</availability>
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
@@ -173,7 +179,9 @@
       <custom>растаможен</custom>
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
-      <price>1450000</price>
+      <price>2115000</price>
+      <priceWithDiscount>1450000</priceWithDiscount>
+      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
@@ -188,11 +196,11 @@
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
+      <body_type>Седан</body_type>
       <complectation_name>Standard</complectation_name>
       <wheel>Левый</wheel>
       <color>Серый</color>
-      <metallic/>
+      <metallic>нет</metallic>
       <availability>в наличии</availability>
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
@@ -201,7 +209,9 @@
       <custom>растаможен</custom>
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
-      <price>1450000</price>
+      <price>2115000</price>
+      <priceWithDiscount>1450000</priceWithDiscount>
+      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
@@ -209,34 +219,6 @@
       <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G23R0014258</vin>
-      <description/>
-      <total>1</total>
-    </car>
-    <car>
-      <mark_id>KAIYI</mark_id>
-      <folder_id>E5</folder_id>
-      <modification_id>1.5 CVT (147 л.с.)</modification_id>
-      <body_type/>
-      <complectation_name>Standard</complectation_name>
-      <wheel>Левый</wheel>
-      <color>Черный</color>
-      <metallic/>
-      <availability>в наличии</availability>
-      <driveType>2WD</driveType>
-      <engineType>Бензин</engineType>
-      <gearboxType>CVT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
-      <year>2023</year>
-      <price>1450000</price>
-      <credit_discount>0</credit_discount>
-      <insurance_discount>0</insurance_discount>
-      <tradein_discount>0</tradein_discount>
-      <optional_discount>0</optional_discount>
-      <max_discount>745000</max_discount>
-      <currency>RUR</currency>
-      <vin>XUUJA2G25P0011526</vin>
       <description/>
       <total>1</total>
     </car>
