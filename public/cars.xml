@@ -90,18 +90,15 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
       <price>2115000</price>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
-      <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G24R0014186</vin>
-      <description/>
+      <description />
       <total>1</total>
-    </car>
+    <max_discount>665000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></car>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
@@ -120,18 +117,15 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
       <price>2115000</price>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
-      <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G24R0014172</vin>
-      <description/>
+      <description />
       <total>1</total>
-    </car>
+    <max_discount>665000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></car>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
@@ -150,18 +144,15 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
       <price>2115000</price>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
-      <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G24R0014219</vin>
-      <description/>
+      <description />
       <total>1</total>
-    </car>
+    <max_discount>665000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></car>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
@@ -180,18 +171,15 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
       <price>2115000</price>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
-      <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G24R0014222</vin>
-      <description/>
+      <description />
       <total>1</total>
-    </car>
+    <max_discount>665000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-белый-2023/</url></car>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
@@ -210,17 +198,14 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2023</year>
       <price>2115000</price>
-      <priceWithDiscount>1450000</priceWithDiscount>
-      <sale_price>1450000</sale_price>
       <credit_discount>0</credit_discount>
       <insurance_discount>0</insurance_discount>
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
-      <max_discount>665000</max_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G23R0014258</vin>
-      <description/>
+      <description />
       <total>1</total>
-    </car>
+    <max_discount>665000</max_discount><priceWithDiscount>1450000</priceWithDiscount><sale_price>1450000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-cvt-147-лс-standard-серый-2023/</url></car>
   </cars>
 </data>

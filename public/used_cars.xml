@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-  <cars>
-    <car>
+  <cars><car>
       <mark_id>Kaiyi</mark_id>
       <folder_id>X3 Pro</folder_id>
       <modification_id>1.5 i CVT (147 л.с.)</modification_id>
