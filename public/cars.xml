@@ -1,38 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-  <cars><car>
-      <mark_id>KAIYI</mark_id>
-      <folder_id>E5</folder_id>
-      <modification_id>1.5 MT (147 л.с.)</modification_id>
-      <body_type>Седан</body_type>
-      <complectation_name>Standard</complectation_name>
-      <wheel>Левый</wheel>
-      <color>Белый</color>
-      <metallic>нет</metallic>
-      <availability>в наличии</availability>
-      <driveType>2WD</driveType>
-      <engineType>Бензин</engineType>
-      <gearboxType>MT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
-      <year>2024</year>
-      <price>2115000</price>
-      <credit_discount>0</credit_discount>
-      <insurance_discount>0</insurance_discount>
-      <tradein_discount>0</tradein_discount>
-      <optional_discount>0</optional_discount>
-      <currency>RUR</currency>
-      <vin>XUUJA1G24R0014186</vin>
-      <description />
-      <total>1</total>
-    <max_discount>0</max_discount><priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
+  <cars>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 MT (147 л.с.)</modification_id>
-      <body_type>Седан</body_type>
-      <complectation_name>Standard</complectation_name>
+      <complectation_name>STANDARD</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
       <metallic>нет</metallic>
@@ -40,36 +13,7 @@
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
       <gearboxType>MT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
-      <year>2024</year>
-      <price>2115000</price>
-      <credit_discount>0</credit_discount>
-      <insurance_discount>0</insurance_discount>
-      <tradein_discount>0</tradein_discount>
-      <optional_discount>0</optional_discount>
-      <currency>RUR</currency>
-      <vin>XUUJA1G24R0014172</vin>
-      <description />
-      <total>1</total>
-    <max_discount>735000</max_discount><priceWithDiscount>1380000</priceWithDiscount><sale_price>1380000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
-    <car>
-      <mark_id>KAIYI</mark_id>
-      <folder_id>E5</folder_id>
-      <modification_id>1.5 MT (147 л.с.)</modification_id>
-      <body_type>Седан</body_type>
-      <complectation_name>Standard</complectation_name>
-      <wheel>Левый</wheel>
-      <color>Белый</color>
-      <metallic>нет</metallic>
-      <availability>в наличии</availability>
-      <driveType>2WD</driveType>
-      <engineType>Бензин</engineType>
-      <gearboxType>MT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
+      <engine_volume>1.5T</engine_volume>
       <year>2024</year>
       <price>2115000</price>
       <credit_discount>0</credit_discount>
@@ -78,15 +22,14 @@
       <optional_discount>0</optional_discount>
       <currency>RUR</currency>
       <vin>XUUJA1G24R0014219</vin>
-      <description />
       <total>1</total>
-    <max_discount>0</max_discount><priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
+      <images />
+    <max_discount>735000</max_discount><priceWithDiscount>1380000</priceWithDiscount><sale_price>1380000</sale_price><url>https://Error: DOMAIN not found in .env file/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
     <car>
       <mark_id>KAIYI</mark_id>
       <folder_id>E5</folder_id>
       <modification_id>1.5 MT (147 л.с.)</modification_id>
-      <body_type>Седан</body_type>
-      <complectation_name>Standard</complectation_name>
+      <complectation_name>STANDARD</complectation_name>
       <wheel>Левый</wheel>
       <color>Белый</color>
       <metallic>нет</metallic>
@@ -94,9 +37,7 @@
       <driveType>2WD</driveType>
       <engineType>Бензин</engineType>
       <gearboxType>MT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
+      <engine_volume>1.5T</engine_volume>
       <year>2024</year>
       <price>2115000</price>
       <credit_discount>0</credit_discount>
@@ -104,36 +45,9 @@
       <tradein_discount>0</tradein_discount>
       <optional_discount>0</optional_discount>
       <currency>RUR</currency>
-      <vin>XUUJA1G24R0014222</vin>
-      <description />
+      <vin>XUUJA1G24R0014172</vin>
       <total>1</total>
-    <max_discount>0</max_discount><priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
-    <car>
-      <mark_id>KAIYI</mark_id>
-      <folder_id>E5</folder_id>
-      <modification_id>1.5 MT (147 л.с.)</modification_id>
-      <body_type>Седан</body_type>
-      <complectation_name>Standard</complectation_name>
-      <wheel>Левый</wheel>
-      <color>Серый</color>
-      <metallic>нет</metallic>
-      <availability>в наличии</availability>
-      <driveType>2WD</driveType>
-      <engineType>Бензин</engineType>
-      <gearboxType>MT</gearboxType>
-      <run>0</run>
-      <custom>растаможен</custom>
-      <owners_number>Не было владельцев</owners_number>
-      <year>2024</year>
-      <price>2115000</price>
-      <credit_discount>0</credit_discount>
-      <insurance_discount>0</insurance_discount>
-      <tradein_discount>0</tradein_discount>
-      <optional_discount>0</optional_discount>
-      <currency>RUR</currency>
-      <vin>XUUJA1G23R0014258</vin>
-      <description />
-      <total>1</total>
-    <max_discount>735000</max_discount><priceWithDiscount>1380000</priceWithDiscount><sale_price>1380000</sale_price><url>https://kaiyi-alpha.ru/cars/kaiyi-e5-15-mt-147-лс-standard-серый-2024/</url></car>
+      <images />
+    <max_discount>735000</max_discount><priceWithDiscount>1380000</priceWithDiscount><sale_price>1380000</sale_price><url>https://Error: DOMAIN not found in .env file/cars/kaiyi-e5-15-mt-147-лс-standard-белый-2024/</url></car>
   </cars>
 </data>
